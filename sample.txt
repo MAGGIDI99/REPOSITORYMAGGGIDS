@@ -1,5 +1,9 @@
 created the file sample and adding the first line
 adding second line on develop branch on remote server
+3rd line
 already added a 3rd line on main branch now adding 3rd line on developm branch
-4th line added
-asfmsnfbsj
+5th line added
+6th line 
+adding 7rd line
+narender NEW 8th LINE
+conflicts resolved
