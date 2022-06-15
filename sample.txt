@@ -1,2 +1,3 @@
 created the file sample and adding the first line
 adding second line on develop branch on remote server
+adding 3rd line on main branch on local and giving pull command to check the code goes to main branch on remote and gets updated on develop on remote/local
