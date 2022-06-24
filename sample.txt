@@ -1,4 +1,12 @@
 created the file sample and adding the first line
 adding second line on develop branch on remote server
-adding 3rd line on main branch on local and giving pull command to check the code goes to main branch on remote and gets updated on develop on remote/l
-narender NEW 4th LINE 
+3rd line
+already added a 3rd line on main branch now adding 3rd line on developm branch
+5th line added
+6th line 
+adding 7rd line
+narender NEW 8th LINE
+conflicts resolved
+trying for a new conflict
+line difference to see conflict
+tryig to see the conflicts on the local station
