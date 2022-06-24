@@ -7,4 +7,5 @@ already added a 3rd line on main branch now adding 3rd line on developm branch
 adding 7rd line
 narender NEW 8th LINE
 conflicts resolved
+trying for a new conflict
 line difference to see conflict
