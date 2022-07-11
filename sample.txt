@@ -12,4 +12,4 @@ line difference to see conflict
 tryig to see the conflicts on the local station
 these changes are from feature 1 branch
 these changes are from develop branch
-these changes are from feature 1 branch
+these changes are from develop branch
